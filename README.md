@@ -12,7 +12,7 @@ The compendium is created with an objective to **organise all the latest researc
 8. [NeurIPS: Neural Information Processing Systems*](https://nips.cc/)
 
 
-# Most Cited 100 papers (In Last 3 Years)
+# Most Cited 100 Papers (In Last 3 Years)
 | Title | Citation | Conference |
 | --- | --- | --- |
 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423) | 18187 | NAACL2019 |
@@ -530,51 +530,3 @@ Click on above link
 
 
 
-<br>
-
-
-
-## Upcoming Conferences
-
-
-
-AACL 2020: Suzhou ![🇨🇳](https://abs.twimg.com/emoji/v2/72x72/1f1e8-1f1f3.png)
-
-LREC 2020: Marseille ![🇫🇷](https://abs.twimg.com/emoji/v2/72x72/1f1eb-1f1f7.png)
-
-EMNLP 2020: Punta Cana ![🇩🇴](https://abs.twimg.com/emoji/v2/72x72/1f1e9-1f1f4.png)
-
-COLING 2020: Barcelona ![🇪🇸](https://abs.twimg.com/emoji/v2/72x72/1f1ea-1f1f8.png)
-
-ACL 2020: Seattle ![🇺🇸](https://abs.twimg.com/emoji/v2/72x72/1f1fa-1f1f8.png)
-
-
-
-<br>
-
-# Reference Books:
-
-https://web.stanford.edu/~jurafsky/slp3/
-
-<http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html>
-
-<https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true>
-
-
-
-
-
-<br>
-
-
-## To update:
-
-
-- [x] Cover ACL 19
-- [x] Cover ACL 18
-- [x] Cover ACL 17
-- [x] Cover EMNLP 19
-- [ ] Cover EMNLP 18
-- [ ] Cover EMNLP 17
-- [ ] Cover NAACL 18
-- [ ] Cover NAACL 17
