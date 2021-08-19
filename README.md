@@ -15,106 +15,106 @@ The compendium is created with an objective to **organise all the latest researc
 # Most Cited 100 Papers (In Last 3 Years)
 | Title | Citation | Conference |
 | --- | --- | --- |
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423) | 18441 | NAACL2019 |
-| [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://www.aclweb.org/anthology/P19-1285) | 1071 | ACL2019 |
-| [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703) | 792 | ACL2020 |
-| [Unsupervised Cross-lingual Representation Learning at Scale](https://www.aclweb.org/anthology/2020.acl-main.747) | 668 | ACL2020 |
-| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355) | 609 | ACL2019 |
-| [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410) | 552 | EMNLP2019 |
-| [SciBERT: A Pretrained Language Model for Scientific Text](https://www.aclweb.org/anthology/D19-1371) | 479 | EMNLP2019 |
-| [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.aclweb.org/anthology/P19-1441) | 476 | ACL2019 |
-| [BERT Rediscovers the Classical NLP Pipeline](https://www.aclweb.org/anthology/P19-1452) | 392 | ACL2019 |
-| [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://www.aclweb.org/anthology/D19-1514) | 375 | EMNLP2019 |
-| [How Multilingual is Multilingual BERT?](https://www.aclweb.org/anthology/P19-1493) | 359 | ACL2019 |
-| [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419) | 358 | NAACL2019 |
-| [Attention is not Explanation](https://www.aclweb.org/anthology/N19-1357) | 350 | NAACL2019 |
-| [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387) | 345 | EMNLP2019 |
-| [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250) | 317 | EMNLP2019 |
-| [ERNIE: Enhanced Language Representation with Informative Entities](https://www.aclweb.org/anthology/P19-1139) | 309 | ACL2019 |
-| [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334) | 309 | ACL2019 |
-| [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670) | 304 | EMNLP2019 |
-| [What Does BERT Learn about the Structure of Language?](https://www.aclweb.org/anthology/P19-1356) | 289 | ACL2019 |
-| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112) | 288 | NAACL2019 |
-| [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740) | 285 | ACL2020 |
-| [Predicting the Type and Target of Offensive Posts in Social Media](https://www.aclweb.org/anthology/N19-1144) | 254 | NAACL2019 |
-| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580) | 245 | ACL2019 |
-| [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1077) | 235 | EMNLP2019 |
-| [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://www.aclweb.org/anthology/N19-1246) | 215 | NAACL2019 |
-| [Attention is not not Explanation](https://www.aclweb.org/anthology/D19-1002) | 211 | EMNLP2019 |
-| [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421) | 207 | NAACL2019 |
-| [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://www.aclweb.org/anthology/P19-1612) | 193 | ACL2019 |
-| [Dense Passage Retrieval for Open-Domain Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.550) | 192 | EMNLP2020 |
-| [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470) | 191 | ACL2019 |
-| [Knowledge Enhanced Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005) | 188 | EMNLP2019 |
-| [Matching the Blanks: Distributional Similarity for Relation Learning](https://www.aclweb.org/anthology/P19-1279) | 184 | ACL2019 |
-| [Patient Knowledge Distillation for BERT Model Compression](https://www.aclweb.org/anthology/D19-1441) | 182 | EMNLP2019 |
-| [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163) | 180 | ACL2019 |
-| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445) | 175 | EMNLP2019 |
-| [Probing Neural Network Comprehension of Natural Language Arguments](https://www.aclweb.org/anthology/P19-1459) | 170 | ACL2019 |
-| [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://www.aclweb.org/anthology/D19-1221) | 167 | EMNLP2019 |
-| [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242) | 164 | NAACL2019 |
-| [CamemBERT: a Tasty French Language Model](https://www.aclweb.org/anthology/2020.acl-main.645) | 156 | ACL2020 |
-| [On the Cross-lingual Transferability of Monolingual Representations](https://www.aclweb.org/anthology/2020.acl-main.421) | 151 | ACL2020 |
-| [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://www.aclweb.org/anthology/N19-1035) | 151 | NAACL2019 |
-| [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.441) | 149 | ACL2020 |
-| [Massively Multilingual Neural Machine Translation](https://www.aclweb.org/anthology/N19-1388) | 145 | NAACL2019 |
-| [Pooled Contextualized Embeddings for Named Entity Recognition](https://www.aclweb.org/anthology/N19-1078) | 144 | NAACL2019 |
-| [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.aclweb.org/anthology/P19-1078) | 139 | ACL2019 |
-| [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522) | 139 | EMNLP2019 |
-| [Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset](https://www.aclweb.org/anthology/P19-1534) | 137 | ACL2019 |
-| [Is Attention Interpretable?](https://www.aclweb.org/anthology/P19-1282) | 136 | ACL2019 |
-| [Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275) | 136 | EMNLP2019 |
-| [Learning Deep Transformer Models for Machine Translation](https://www.aclweb.org/anthology/P19-1176) | 133 | ACL2019 |
-| [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://www.aclweb.org/anthology/D19-1633) | 132 | EMNLP2019 |
-| [How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings](https://www.aclweb.org/anthology/D19-1006) | 130 | EMNLP2019 |
-| [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050) | 128 | ACL2019 |
-| [HellaSwag: Can a Machine Really Finish Your Sentence?](https://www.aclweb.org/anthology/P19-1472) | 128 | ACL2019 |
-| [Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/N19-1064) | 127 | NAACL2019 |
-| [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282) | 124 | EMNLP2019 |
-| [Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects](https://www.aclweb.org/anthology/D19-1018) | 123 | EMNLP2019 |
-| [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442) | 122 | ACL2020 |
-| [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://www.aclweb.org/anthology/P19-1499) | 121 | ACL2019 |
-| [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704) | 120 | ACL2020 |
-| [Attention Guided Graph Convolutional Networks for Relation Extraction](https://www.aclweb.org/anthology/P19-1024) | 119 | ACL2019 |
-| [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://www.aclweb.org/anthology/D19-1279) | 119 | EMNLP2019 |
-| [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://www.aclweb.org/anthology/P19-1487) | 117 | ACL2019 |
-| [On Measuring Social Biases in Sentence Encoders](https://www.aclweb.org/anthology/N19-1063) | 117 | NAACL2019 |
-| [Social IQa: Commonsense Reasoning about Social Interactions](https://www.aclweb.org/anthology/D19-1454) | 116 | EMNLP2019 |
-| [Cloze-driven Pretraining of Self-attention Networks](https://www.aclweb.org/anthology/D19-1539) | 116 | EMNLP2019 |
-| [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://www.aclweb.org/anthology/2020.emnlp-main.437) | 115 | EMNLP2020 |
-| [MuST-C: a Multilingual Speech Translation Corpus](https://www.aclweb.org/anthology/N19-1202) | 114 | NAACL2019 |
-| [Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032) | 112 | ACL2019 |
-| [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103) | 112 | ACL2019 |
-| [Text Generation from Knowledge Graphs with Graph Transformers](https://www.aclweb.org/anthology/N19-1238) | 112 | NAACL2019 |
-| [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588) | 111 | EMNLP2019 |
-| [A Corpus for Reasoning about Natural Language Grounded in Photographs](https://www.aclweb.org/anthology/P19-1644) | 110 | ACL2019 |
-| [Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing](https://www.aclweb.org/anthology/N19-1162) | 110 | NAACL2019 |
-| [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://www.aclweb.org/anthology/N19-1240) | 109 | NAACL2019 |
-| [MLQA: Evaluating Cross-lingual Extractive Question Answering](https://www.aclweb.org/anthology/2020.acl-main.653) | 105 | ACL2020 |
-| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/P19-1466) | 105 | ACL2019 |
-| [BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions](https://www.aclweb.org/anthology/N19-1300) | 105 | NAACL2019 |
-| [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485) | 104 | ACL2020 |
-| [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://www.aclweb.org/anthology/2020.acl-main.195) | 102 | ACL2020 |
-| [Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation](https://www.aclweb.org/anthology/P19-1444) | 102 | ACL2019 |
-| [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224) | 100 | EMNLP2019 |
-| [How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions](https://www.aclweb.org/anthology/P19-1070) | 99 | ACL2019 |
-| [Hierarchical Transformers for Multi-Document Summarization](https://www.aclweb.org/anthology/P19-1500) | 99 | ACL2019 |
-| [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051) | 98 | EMNLP2019 |
-| [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053) | 98 | EMNLP2019 |
-| [Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107) | 98 | EMNLP2019 |
-| [Mitigating Gender Bias in Natural Language Processing: Literature Review](https://www.aclweb.org/anthology/P19-1159) | 97 | ACL2019 |
-| [Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243) | 97 | EMNLP2019 |
-| [What makes a good conversation? How controllable attributes affect human judgments](https://www.aclweb.org/anthology/N19-1170) | 97 | NAACL2019 |
-| [Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://www.aclweb.org/anthology/P19-1102) | 96 | ACL2019 |
-| [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656) | 96 | ACL2019 |
-| [Evaluating the Factual Consistency of Abstractive Text Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.750) | 95 | EMNLP2020 |
-| [Disentangled Representation Learning for Non-Parallel Text Style Transfer](https://www.aclweb.org/anthology/P19-1041) | 94 | ACL2019 |
-| [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585) | 94 | EMNLP2019 |
-| [Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing](https://www.aclweb.org/anthology/N19-1021) | 94 | NAACL2019 |
-| [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418) | 93 | EMNLP2019 |
-| [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://www.aclweb.org/anthology/N19-1014) | 93 | NAACL2019 |
-| [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://www.aclweb.org/anthology/P19-1595) | 91 | ACL2019 |
-| [Revisiting Low-Resource Neural Machine Translation: A Case Study](https://www.aclweb.org/anthology/P19-1021) | 90 | ACL2019 |
+| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423) | 21031 | NAACL2019 |
+| [Transformer-XL: Attentive Language Models beyond a Fixed-Length Context](https://www.aclweb.org/anthology/P19-1285) | 1233 | ACL2019 |
+| [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://www.aclweb.org/anthology/2020.acl-main.703) | 998 | ACL2020 |
+| [Unsupervised Cross-lingual Representation Learning at Scale](https://www.aclweb.org/anthology/2020.acl-main.747) | 813 | ACL2020 |
+| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355) | 713 | ACL2019 |
+| [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://www.aclweb.org/anthology/D19-1410) | 703 | EMNLP2019 |
+| [SciBERT: A Pretrained Language Model for Scientific Text](https://www.aclweb.org/anthology/D19-1371) | 571 | EMNLP2019 |
+| [Multi-Task Deep Neural Networks for Natural Language Understanding](https://www.aclweb.org/anthology/P19-1441) | 533 | ACL2019 |
+| [LXMERT: Learning Cross-Modality Encoder Representations from Transformers](https://www.aclweb.org/anthology/D19-1514) | 452 | EMNLP2019 |
+| [BERT Rediscovers the Classical NLP Pipeline](https://www.aclweb.org/anthology/P19-1452) | 436 | ACL2019 |
+| [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419) | 407 | NAACL2019 |
+| [How Multilingual is Multilingual BERT?](https://www.aclweb.org/anthology/P19-1493) | 404 | ACL2019 |
+| [Text Summarization with Pretrained Encoders](https://www.aclweb.org/anthology/D19-1387) | 402 | EMNLP2019 |
+| [Attention is not Explanation](https://www.aclweb.org/anthology/N19-1357) | 390 | NAACL2019 |
+| [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://www.aclweb.org/anthology/D19-1670) | 364 | EMNLP2019 |
+| [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740) | 362 | ACL2020 |
+| [ERNIE: Enhanced Language Representation with Informative Entities](https://www.aclweb.org/anthology/P19-1139) | 362 | ACL2019 |
+| [Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference](https://www.aclweb.org/anthology/P19-1334) | 359 | ACL2019 |
+| [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250) | 349 | EMNLP2019 |
+| [What Does BERT Learn about the Structure of Language?](https://www.aclweb.org/anthology/P19-1356) | 342 | ACL2019 |
+| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112) | 317 | NAACL2019 |
+| [Predicting the Type and Target of Offensive Posts in Social Media](https://www.aclweb.org/anthology/N19-1144) | 286 | NAACL2019 |
+| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580) | 280 | ACL2019 |
+| [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT](https://www.aclweb.org/anthology/D19-1077) | 258 | EMNLP2019 |
+| [Dense Passage Retrieval for Open-Domain Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.550) | 255 | EMNLP2020 |
+| [Attention is not not Explanation](https://www.aclweb.org/anthology/D19-1002) | 245 | EMNLP2019 |
+| [DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs](https://www.aclweb.org/anthology/N19-1246) | 235 | NAACL2019 |
+| [CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge](https://www.aclweb.org/anthology/N19-1421) | 235 | NAACL2019 |
+| [Latent Retrieval for Weakly Supervised Open Domain Question Answering](https://www.aclweb.org/anthology/P19-1612) | 231 | ACL2019 |
+| [Knowledge Enhanced Contextual Word Representations](https://www.aclweb.org/anthology/D19-1005) | 218 | EMNLP2019 |
+| [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470) | 217 | ACL2019 |
+| [The Risk of Racial Bias in Hate Speech Detection](https://www.aclweb.org/anthology/P19-1163) | 215 | ACL2019 |
+| [Patient Knowledge Distillation for BERT Model Compression](https://www.aclweb.org/anthology/D19-1441) | 211 | EMNLP2019 |
+| [Matching the Blanks: Distributional Similarity for Relation Learning](https://www.aclweb.org/anthology/P19-1279) | 204 | ACL2019 |
+| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445) | 196 | EMNLP2019 |
+| [Probing Neural Network Comprehension of Natural Language Arguments](https://www.aclweb.org/anthology/P19-1459) | 192 | ACL2019 |
+| [CamemBERT: a Tasty French Language Model](https://www.aclweb.org/anthology/2020.acl-main.645) | 188 | ACL2020 |
+| [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://www.aclweb.org/anthology/D19-1221) | 188 | EMNLP2019 |
+| [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://www.aclweb.org/anthology/N19-1242) | 184 | NAACL2019 |
+| [On the Cross-lingual Transferability of Monolingual Representations](https://www.aclweb.org/anthology/2020.acl-main.421) | 180 | ACL2020 |
+| [Adversarial NLI: A New Benchmark for Natural Language Understanding](https://www.aclweb.org/anthology/2020.acl-main.441) | 170 | ACL2020 |
+| [Justifying Recommendations using Distantly-Labeled Reviews and Fine-Grained Aspects](https://www.aclweb.org/anthology/D19-1018) | 168 | EMNLP2019 |
+| [Massively Multilingual Neural Machine Translation](https://www.aclweb.org/anthology/N19-1388) | 167 | NAACL2019 |
+| [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442) | 165 | ACL2020 |
+| [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://www.aclweb.org/anthology/N19-1035) | 165 | NAACL2019 |
+| [Towards Empathetic Open-domain Conversation Models: A New Benchmark and Dataset](https://www.aclweb.org/anthology/P19-1534) | 162 | ACL2019 |
+| [Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems](https://www.aclweb.org/anthology/P19-1078) | 161 | ACL2019 |
+| [Is Attention Interpretable?](https://www.aclweb.org/anthology/P19-1282) | 161 | ACL2019 |
+| [TuckER: Tensor Factorization for Knowledge Graph Completion](https://www.aclweb.org/anthology/D19-1522) | 160 | EMNLP2019 |
+| [Pooled Contextualized Embeddings for Named Entity Recognition](https://www.aclweb.org/anthology/N19-1078) | 160 | NAACL2019 |
+| [BLEURT: Learning Robust Metrics for Text Generation](https://www.aclweb.org/anthology/2020.acl-main.704) | 158 | ACL2020 |
+| [Learning Deep Transformer Models for Machine Translation](https://www.aclweb.org/anthology/P19-1176) | 158 | ACL2019 |
+| [Designing and Interpreting Probes with Control Tasks](https://www.aclweb.org/anthology/D19-1275) | 154 | EMNLP2019 |
+| [Mask-Predict: Parallel Decoding of Conditional Masked Language Models](https://www.aclweb.org/anthology/D19-1633) | 152 | EMNLP2019 |
+| [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://www.aclweb.org/anthology/2020.acl-main.485) | 151 | ACL2020 |
+| [How Contextual are Contextualized Word Representations? Comparing the Geometry of BERT, ELMo, and GPT-2 Embeddings](https://www.aclweb.org/anthology/D19-1006) | 151 | EMNLP2019 |
+| [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations](https://www.aclweb.org/anthology/P19-1050) | 147 | ACL2019 |
+| [HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization](https://www.aclweb.org/anthology/P19-1499) | 140 | ACL2019 |
+| [How Much Knowledge Can You Pack Into the Parameters of a Language Model?](https://www.aclweb.org/anthology/2020.emnlp-main.437) | 138 | EMNLP2020 |
+| [HellaSwag: Can a Machine Really Finish Your Sentence?](https://www.aclweb.org/anthology/P19-1472) | 138 | ACL2019 |
+| [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1282) | 137 | EMNLP2019 |
+| [Gender Bias in Contextualized Word Embeddings](https://www.aclweb.org/anthology/N19-1064) | 136 | NAACL2019 |
+| [Attention Guided Graph Convolutional Networks for Relation Extraction](https://www.aclweb.org/anthology/P19-1024) | 134 | ACL2019 |
+| [Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency](https://www.aclweb.org/anthology/P19-1103) | 133 | ACL2019 |
+| [75 Languages, 1 Model: Parsing Universal Dependencies Universally](https://www.aclweb.org/anthology/D19-1279) | 133 | EMNLP2019 |
+| [MuST-C: a Multilingual Speech Translation Corpus](https://www.aclweb.org/anthology/N19-1202) | 133 | NAACL2019 |
+| [Adaptive Attention Span in Transformers](https://www.aclweb.org/anthology/P19-1032) | 128 | ACL2019 |
+| [Cloze-driven Pretraining of Self-attention Networks](https://www.aclweb.org/anthology/D19-1539) | 127 | EMNLP2019 |
+| [MobileBERT: a Compact Task-Agnostic BERT for Resource-Limited Devices](https://www.aclweb.org/anthology/2020.acl-main.195) | 126 | ACL2020 |
+| [A Corpus for Reasoning about Natural Language Grounded in Photographs](https://www.aclweb.org/anthology/P19-1644) | 126 | ACL2019 |
+| [The FLORES Evaluation Datasets for Low-Resource Machine Translation: Nepali–English and Sinhala–English](https://www.aclweb.org/anthology/D19-1632) | 126 | EMNLP2019 |
+| [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](https://www.aclweb.org/anthology/P19-1487) | 125 | ACL2019 |
+| [BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions](https://www.aclweb.org/anthology/N19-1300) | 125 | NAACL2019 |
+| [Social IQa: Commonsense Reasoning about Social Interactions](https://www.aclweb.org/anthology/D19-1454) | 124 | EMNLP2019 |
+| [On Measuring Social Biases in Sentence Encoders](https://www.aclweb.org/anthology/N19-1063) | 124 | NAACL2019 |
+| [MLQA: Evaluating Cross-lingual Extractive Question Answering](https://www.aclweb.org/anthology/2020.acl-main.653) | 123 | ACL2020 |
+| [Mitigating Gender Bias in Natural Language Processing: Literature Review](https://www.aclweb.org/anthology/P19-1159) | 123 | ACL2019 |
+| [Text Generation from Knowledge Graphs with Graph Transformers](https://www.aclweb.org/anthology/N19-1238) | 123 | NAACL2019 |
+| [BERT for Coreference Resolution: Baselines and Analysis](https://www.aclweb.org/anthology/D19-1588) | 122 | EMNLP2019 |
+| [Learning Attention-based Embeddings for Relation Prediction in Knowledge Graphs](https://www.aclweb.org/anthology/P19-1466) | 121 | ACL2019 |
+| [Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing](https://www.aclweb.org/anthology/N19-1162) | 121 | NAACL2019 |
+| [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://www.aclweb.org/anthology/N19-1240) | 120 | NAACL2019 |
+| [Multimodal Transformer for Unaligned Multimodal Language Sequences](https://www.aclweb.org/anthology/P19-1656) | 117 | ACL2019 |
+| [Entity, Relation, and Event Extraction with Contextualized Span Representations](https://www.aclweb.org/anthology/D19-1585) | 117 | EMNLP2019 |
+| [Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation](https://www.aclweb.org/anthology/P19-1444) | 116 | ACL2019 |
+| [Hierarchical Transformers for Multi-Document Summarization](https://www.aclweb.org/anthology/P19-1500) | 116 | ACL2019 |
+| [Don’t Take the Easy Way Out: Ensemble Based Methods for Avoiding Known Dataset Biases](https://www.aclweb.org/anthology/D19-1418) | 114 | EMNLP2019 |
+| [Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets](https://www.aclweb.org/anthology/D19-1107) | 113 | EMNLP2019 |
+| [Show Your Work: Improved Reporting of Experimental Results](https://www.aclweb.org/anthology/D19-1224) | 113 | EMNLP2019 |
+| [Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing](https://www.aclweb.org/anthology/N19-1021) | 113 | NAACL2019 |
+| [Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://www.aclweb.org/anthology/P19-1102) | 112 | ACL2019 |
+| [MoverScore: Text Generation Evaluating with Contextualized Embeddings and Earth Mover Distance](https://www.aclweb.org/anthology/D19-1053) | 112 | EMNLP2019 |
+| [A Unified MRC Framework for Named Entity Recognition](https://www.aclweb.org/anthology/2020.acl-main.519) | 109 | ACL2020 |
+| [WiC: the Word-in-Context Dataset for Evaluating Context-Sensitive Meaning Representations](https://www.aclweb.org/anthology/N19-1128) | 109 | NAACL2019 |
+| [Evaluating the Factual Consistency of Abstractive Text Summarization](https://www.aclweb.org/anthology/2020.emnlp-main.750) | 107 | EMNLP2020 |
+| [Neural Text Summarization: A Critical Evaluation](https://www.aclweb.org/anthology/D19-1051) | 107 | EMNLP2019 |
+| [What makes a good conversation? How controllable attributes affect human judgments](https://www.aclweb.org/anthology/N19-1170) | 107 | NAACL2019 |
+| [Disentangled Representation Learning for Non-Parallel Text Style Transfer](https://www.aclweb.org/anthology/P19-1041) | 104 | ACL2019 |
+| [How to (Properly) Evaluate Cross-Lingual Word Embeddings: On Strong Baselines, Comparative Analyses, and Some Misconceptions](https://www.aclweb.org/anthology/P19-1070) | 104 | ACL2019 |
+| [Cosmos QA: Machine Reading Comprehension with Contextual Commonsense Reasoning](https://www.aclweb.org/anthology/D19-1243) | 104 | EMNLP2019 |
 
 # 1. ACL:
 
